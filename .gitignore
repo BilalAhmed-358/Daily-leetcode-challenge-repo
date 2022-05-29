@@ -1,3 +1,6 @@
 .cph/
 .vscode/
 *.exe
+test.c
+snippet.cpp
+new.txt
