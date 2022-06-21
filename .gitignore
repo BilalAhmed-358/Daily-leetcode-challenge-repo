@@ -6,3 +6,5 @@ snippet.cpp
 new.txt
 A_Lucky.bin
 *.bin
+*.sh
+/bin
