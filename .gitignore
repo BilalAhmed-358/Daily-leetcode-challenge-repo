@@ -8,3 +8,9 @@ A_Lucky.bin
 *.bin
 *.sh
 /bin
+# Ignore all
+*
+# Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
