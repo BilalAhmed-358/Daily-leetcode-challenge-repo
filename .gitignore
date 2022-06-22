@@ -14,3 +14,4 @@ A_Lucky.bin
 !*.*
 # Unignore all dirs
 !*/
+.vscode
